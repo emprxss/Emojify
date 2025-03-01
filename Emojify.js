@@ -4,8 +4,7 @@
 // @version      1.0.2
 // @description  Dreams do come true, a script that transforms text based code into Emojis, uses discord like syntax.
 // @author       Marshal
-// @match        https://www.kogama.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=kogama.com
+// @match        *://*/*
 // @grant        none
 // ==/UserScript==
 
