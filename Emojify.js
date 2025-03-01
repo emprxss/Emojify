@@ -23,7 +23,7 @@
         ":Pat:":  "https://cdn.discordapp.com/emojis/1057461468909535272.webp?size=48&animated=true",
         ":Catroll:":  "https://cdn.discordapp.com/emojis/1245432352310689934.webp?size=48&animated=true",
 
-        //You can add as much as you can from any vaild URL, the default are my most used/Favorites
+        // You can add as much as you can from any vaild URL, the default are my most used/Favorites
 
     };
 
